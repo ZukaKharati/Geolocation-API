@@ -6,7 +6,7 @@ Geolocation API is a web application that dynamically fetches and displays infor
 
 • Geolocation-based country detection: Automatically detects the user's location and retrieves the current country data.  
 
-• Neighboring country display**: Fetches and displays information about the neighboring country, if available.  
+• Neighboring country display: Fetches and displays information about the neighboring country, if available.  
 
 • Dynamic data visualization: Displays country details, including the following:  
   - Flag  
@@ -18,7 +18,7 @@ Geolocation API is a web application that dynamically fetches and displays infor
 
 • Error handling: Provides informative messages if an error occurs (e.g., geolocation denied, API failure). 
 
-• Interactive button**: A simple button click triggers the geolocation and data fetching process.
+• Interactive button: A simple button click triggers the geolocation and data fetching process.
 
 ## How It Works 
 
