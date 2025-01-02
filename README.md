@@ -47,7 +47,7 @@ Geolocation API is a web application that dynamically fetches and displays infor
 
 ### The link created by the github, to test the project live version.
 
-https://zukakharati.github.io/Geolocation-API/
+https://zukakharati.github.io/Project-7-Geolocation-API/
 
 ### 📷 Screenshots
 
